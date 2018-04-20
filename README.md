@@ -1,2 +1,8 @@
 # JAVA-Snarks-Hunter-MiniGame
-## A simple mini game. Hunt the snarks hiding in the bushes
+
+snarks hunter is a simple miniGame written in Java in which the user can hunt objects hidden in bushes. 
+
+## verison
+
+  1.5.0
+
