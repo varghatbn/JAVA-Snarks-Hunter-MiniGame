@@ -3,10 +3,10 @@
     Was developed to practice with Object Oriented programming.  
 
 ## Verison
-    1.5.0
+    1.2.0
 
 ## Execution 
-    in any JAVA IDK through Main
+    in any JAVA IDK through the GameDrive class.
   
 ## Author
     Vargha Tebyaniyan
